@@ -1,0 +1,48 @@
+.topnav{
+    background-color: black;
+    border:3px solid green;
+    overflow: hidden;
+ }
+ .topnav a{
+     background-color: black;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     font-size: 17px;
+     float: left;
+     text-decoration: none;
+ }
+ .topnav a:hover{
+     background-color: white;
+     color: black;
+ }
+ #fjala{
+    border: 5px solid red;
+    width: 800px;
+    height: 450px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+ }
+ #kurti{
+    border: 5px solid red;
+    width: 800px;
+    height: 450px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    float:right;
+ }
+ #tije{
+    border: 5px solid red;
+    width: 800px;
+    height: 450px;
+    border-radius: 20px;
+ }
+ body{
+    background-color: black;
+ }
+ h1{
+    color: antiquewhite;
+    font-size: 20px;
+    display: inline-block;
+ }
+

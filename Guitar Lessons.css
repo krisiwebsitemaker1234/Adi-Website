@@ -1,0 +1,47 @@
+.topnav{
+    background-color: black;
+    border:3px solid green;
+    overflow: hidden;
+ }
+ .topnav a{
+     background-color: black;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     font-size: 17px;
+     float: left;
+     text-decoration: none;
+ }
+ .topnav a:hover{
+     background-color: white;
+     color: black;
+ }
+ body{
+    background-color: cadetblue;
+ }
+ input{
+    border: 1px solid red;
+    border-radius: 10px;
+    color:yellow;
+    background-color: cadetblue;
+ }
+ select{
+    border: 1px solid red;
+    border-radius: 10px;
+    color:yellow;
+    background-color: cadetblue;
+ }
+ #cancel{
+    border:2px solid red;
+    width: 90px;
+    height: 30px;
+    background-color: cadetblue;
+    cursor: pointer;
+ }
+ #signup{
+    border:2px solid red;
+    width: 90px;
+    height: 30px;
+    background-color: cadetblue;
+    cursor: pointer;
+ }
